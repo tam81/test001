@@ -12,7 +12,7 @@ import java.util.Map;
  * @author tam.nguyen
  * Created on 30-May-2019
  */
-public class ItemHelperTest {
+public class ItemHelperSpec {
 
   @Test
   public void shouldConvertArrayOfItemToString() {
